@@ -1,0 +1,236 @@
+.header .wrapper
+{
+	width:100%;
+    margin:auto;
+}
+.topics .wrapper
+{
+	width:100%;
+    margin:auto;
+}
+.about .wrapper
+{
+	width:70%;
+    margin:auto;
+}
+.images .wrapper
+{
+	width:70%;
+    margin:auto;
+}
+.copyright .wrapper
+{
+	width:70%;
+    margin:auto;
+}
+.header
+{
+	text-align:center;
+	height:38px;
+	width:1400px;
+	background-color:blue;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.topics 
+ {
+	 background-color:yellow;
+	 height:59px;
+}
+.topics .topics-fc 
+{
+	display:flex;
+	justify-content:space-around;
+	flex-direction:row;
+}
+.topics .topics-fc .photofolio
+{
+	text-align:center;
+    background-color:green;
+  height:59px;
+  width:300px;
+}
+.topics .topics-fc .navigation
+{
+	text-align:center;
+  height:59px;
+  width:300px;
+ 
+}
+.topics .topics-fc .contact
+{
+	text-align:center;
+	background-color:green;
+  height:59px;
+  width:300px;
+}
+.about 
+{
+	height:300px;
+	width:1500px;
+	background-color:#cddc39;
+}
+.about .about-fc 
+{
+	display:flex;
+	justify-content:center;
+}
+.about .about-fc .available
+{
+	text-align:center;
+	margin-top:150px;
+	background-color:pink;
+	width:200px;
+	height:50px;
+}
+.images 
+{
+	height:700px;
+	width:1400px;
+	background-color:gray;
+}
+.images .images-fc 
+{
+     display:flex;
+	flex-wrap:wrap;
+    justify-content:space-around;
+}
+.images .images-fc .sea
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#e91863;
+}
+.images .images-fc .building
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#03a9f4;
+}
+.images .images-fc .straberry
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#e91863;
+}
+.images .images-fc .parrot
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#03a9f4;;
+}
+.images .images-fc .hills
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#03a9f4;
+}
+.images .images-fc .girl-a
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#e91863;
+}
+.images .images-fc .girl-b
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#03a9f4;
+}
+.images .images-fc .girl-c
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#e91863;
+}
+.images .images-fc .girl-d
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#03a9f4;
+}
+.images .images-fc .america
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#e91863;
+}
+.images .images-fc .butterfly
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#03a9f4;
+}
+.images .images-fc .boat
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#e91863;
+}
+.images .images-fc .water
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#03a9f4;
+}
+.images .images-fc .food
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#e91863;
+}
+.images .images-fc .moon
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#03a9f4;
+}
+.images .images-fc .river
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:#e91863;
+}
+.copyright
+{
+	text-align:center;
+	height:110px;
+	width:1400px;
+	background-color:#cddc39;
+}
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+.
